@@ -1,0 +1,15 @@
+C:\workshop\borntodev\C#\HashTable\HashTable\bin\Debug\HashTable.exe.config
+C:\workshop\borntodev\C#\HashTable\HashTable\bin\Debug\HashTable.exe
+C:\workshop\borntodev\C#\HashTable\HashTable\bin\Debug\HashTable.pdb
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable.csproj.AssemblyReference.cache
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\MainWindow.g.cs
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\App.g.cs
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable_MarkupCompile.cache
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable_MarkupCompile.lref
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\MainWindow.baml
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable.g.resources
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable.Properties.Resources.resources
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable.csproj.GenerateResource.cache
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable.exe
+C:\workshop\borntodev\C#\HashTable\HashTable\obj\Debug\HashTable.pdb
