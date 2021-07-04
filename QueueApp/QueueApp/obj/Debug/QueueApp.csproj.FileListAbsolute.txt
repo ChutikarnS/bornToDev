@@ -1,0 +1,15 @@
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.AssemblyReference.cache
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\MainWindow.g.cs
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\App.g.cs
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp_MarkupCompile.cache
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp_MarkupCompile.lref
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\MainWindow.baml
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp.g.resources
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp.Properties.Resources.resources
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.GenerateResource.cache
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.CoreCompileInputs.cache
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+C:\workshop\borntodev\C#\clone\bornToDev\QueueApp\QueueApp\obj\Debug\QueueApp.pdb

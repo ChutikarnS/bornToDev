@@ -1,0 +1,15 @@
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\bin\Debug\StackApp.exe.config
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\bin\Debug\StackApp.exe
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\bin\Debug\StackApp.pdb
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp.csproj.AssemblyReference.cache
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\MainWindow.g.cs
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\App.g.cs
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp_MarkupCompile.cache
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp_MarkupCompile.lref
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\MainWindow.baml
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp.g.resources
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp.Properties.Resources.resources
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp.csproj.GenerateResource.cache
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp.csproj.CoreCompileInputs.cache
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp.exe
+C:\workshop\borntodev\C#\clone\bornToDev\StackApp\StackApp\obj\Debug\StackApp.pdb
