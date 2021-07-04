@@ -1,0 +1,15 @@
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.AssemblyReference.cache
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+C:\workshop\borntodev\C#\clone\bornToDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
